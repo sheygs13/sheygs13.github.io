@@ -5923,5 +5923,17 @@ textarea {
     margin-right: 5px
 }
 
+/*PLACEHOLDER FONT SIZE*/
+input,
+input::-webkit-input-placeholder,
+textarea,
+textarea::placeholder {
+    font-size: 14px;
+    line-height: 3;
+}
+
+.row .col-sm-4 .card-container p {
+    font-size: 13.5px;
+}
 
 /*# sourceMappingURL=main.70a66962.map*/
